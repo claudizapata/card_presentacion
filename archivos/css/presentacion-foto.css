@@ -1,0 +1,17 @@
+
+.img__foto{
+    width: 20rem;
+    border-radius: 50%;
+    margin-top: 2rem;
+    margin-left: .2rem;
+    
+    
+}
+@media screen and (max-width:500px) {
+    .img__foto{
+       
+        margin-top: 5rem;
+        width: 12rem;
+        
+    }
+}
